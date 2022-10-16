@@ -825,6 +825,12 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.col-sm-4 > ul > li > a {
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #212121!important;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
